@@ -21,6 +21,8 @@ Dimension Tables:
 FACT Table:
     This table only contains referenced columns. For example: It has song_id and details of the song is in song table. Similarly, artist_id here and details like name, location of the artist in artists table. Thus we avoided duplication of column data in Fact table i.e. songplays table. In the dimension tables we defined PRIMARY KEY which ensures only one value is stored thus we also avoided writing duplicate records into dimemsion tables.
 
+ER DIAGRAM: (OBJECT MODEL)
+
 
 
 
