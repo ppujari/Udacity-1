@@ -23,7 +23,7 @@ FACT Table:
 
 ER DIAGRAM: (OBJECT MODEL)
 
-
+![](er.png)
 
 
 ## Summary
